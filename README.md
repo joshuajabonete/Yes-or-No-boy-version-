@@ -1,5 +1,5 @@
 ## 🚀 Live Demo
-- [Live Demo](https://yesornoboyversionbyjoshuajabonete.vercel.app/)
+- [Live Demo](https://yes-or-no-boy-version.vercel.app/)
 
 ## 👤 Author
 <p align="left">
